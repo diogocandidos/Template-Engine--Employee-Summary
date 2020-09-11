@@ -46,6 +46,7 @@ function CreateEmployee(){
             choices: ["Engineer", "Intern", "NONE"]
         }
     ];
+    
     inquirer.prompt(addMember).then(function (response) {
         console.log(response);
         if (response.employeeRole == "Engineer") {
@@ -115,6 +116,7 @@ function CreateIntern(){
             message: "What is the name of your school? "
         }
     ];       
+
     inquirer.prompt(promptQuestion).then(function (response) {
         console.log(response);
         const intern = new Intern(response.name,response.id,response.email,response.school);
