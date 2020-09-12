@@ -12,7 +12,11 @@ so that I have quick access to emails and GitHub profiles
 ## Demo
  [Youtube link](https://youtu.be/LWYTR_MkHNc)
  
-<img width="600" alt="myteam" src="https://user-images.githubusercontent.com/61811579/92953270-4d350680-f416-11ea-9647-fb6a527e0432.png">
+ [Youtube link](https://youtu.be/j-aEzAhUH2Q)
+ 
+<img width="700" alt="myTeam" src="https://user-images.githubusercontent.com/61811579/92959433-adc94100-f420-11ea-99bc-337442b4ff01.png">
+
+<img width="512" alt="myteam_test" src="https://user-images.githubusercontent.com/61811579/93003193-7b3b4900-f4f1-11ea-91d1-1eb75c003345.png">
 
 ## Licence
 MIT License
